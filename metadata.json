@@ -1,0 +1,5 @@
+{
+  "name": "Solaris Explorer",
+  "description": "Advanced celestial interface featuring real-time orbital telemetry, Artemis II mission live broadcasts, and simulated identity verification protocols.",
+  "requestFramePermissions": []
+}
